@@ -10043,6 +10043,7 @@
 		}
 	],
 	"structures": [
+	{
 	"@type": "sc:Range",
       "label": "Table of Contents",
       "viewingHint": "top",
@@ -10228,12 +10229,8 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-74",
         "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-75",
         "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-76",
-        "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-77"
-        
+        "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-77"     
       ]
-    },
-{
-	"thumbnail": {
-		"@id": "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-9"
-	}
+    }
+]
 }
