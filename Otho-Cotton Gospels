@@ -10049,10 +10049,10 @@
       "viewingHint": "top",
       "@id": "https://raw.githubusercontent.com/am2539/test-repository/master/Otho-Cotton%20Gospels/range/r0",
       "ranges": [
-        "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/range/r1",
-        "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/range/r2",
-        "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/range/r3",
-        "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/range/r4"
+        "https://raw.githubusercontent.com/am2539/test-repository/master/Otho-Cotton%20Gospels/range/r1",
+        "https://raw.githubusercontent.com/am2539/test-repository/master/Otho-Cotton%20Gospels/range/r2",
+        "https://raw.githubusercontent.com/am2539/test-repository/master/Otho-Cotton%20Gospels/range/r3",
+        "https://raw.githubusercontent.com/am2539/test-repository/master/Otho-Cotton%20Gospels/range/r4"
       ]
     },
     {
