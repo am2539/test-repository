@@ -24,6 +24,66 @@
 			],
 			"canvases": [
 				{
+					"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000002",
+					"@type": "sc:Canvas",
+					"label": "front",
+					"width": 4868,
+					"height": 6227,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100058059308.0x000001/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100058059308.0x000001",
+									"protocol": "http://iiif.io/api/image",
+									"width": 4868,
+									"height": 6227,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 256
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"profileLinkHeader",
+												"rotationArbitrary",
+												"regionSquare",
+												"mirroring"
+											]
+										}
+									]
+								}
+							},
+							"on": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000002"
+						}
+					],
+					"related": {
+						"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807671.0x000001/manifest.json",
+						"label": "British Library Cotton MS Otho C V Gospels of St Matthew and St Mark (part of the 'The Otho-Corpus Gospels') (imperfect)",
+						"format": ""
+					}
+				},
+				{
 					"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000008",
 					"@type": "sc:Canvas",
 					"label": "f.1r",
@@ -9939,6 +9999,38 @@
 								}
 							},
 							"on": "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-78"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/manifest.json",
+						"label": "Cambridge, Corpus Christi College, MS 197B: The Northumbrian Gospels",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-84",
+					"@type": "sc:Canvas",
+					"label": "Back outside binding",
+					"height": 6206,
+					"width": 4806,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/imageanno/anno-84",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/qw038wz9710/197B_bob_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 6206,
+								"width": 4806,
+								"service": {
+									"@id": "https://stacks.stanford.edu/image/iiif/qw038wz9710%252F197B_bob_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-84"
 						}
 					],
 					"related": {
