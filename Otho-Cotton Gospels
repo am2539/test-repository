@@ -564,66 +564,6 @@
 					}
 				},
 				{
-					"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000011",
-					"@type": "sc:Canvas",
-					"label": "f.5v",
-					"width": 5113,
-					"height": 6706,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100058059308.0x000010/full/max/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100058059308.0x000010",
-									"protocol": "http://iiif.io/api/image",
-									"width": 5113,
-									"height": 6706,
-									"tiles": [
-										{
-											"scaleFactors": [
-												1,
-												2,
-												4,
-												8,
-												16,
-												32
-											],
-											"width": 256
-										}
-									],
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"qualities": [
-												"gray",
-												"color",
-												"bitonal"
-											],
-											"supports": [
-												"profileLinkHeader",
-												"rotationArbitrary",
-												"regionSquare",
-												"mirroring"
-											]
-										}
-									]
-								}
-							},
-							"on": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000011"
-						}
-					],
-					"related": {
-						"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807671.0x000001/manifest.json",
-						"label": "British Library Cotton MS Otho C V Gospels of St Matthew and St Mark (part of the 'The Otho-Corpus Gospels') (imperfect)",
-						"format": ""
-					}
-				},
-				{
 					"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000010",
 					"@type": "sc:Canvas",
 					"label": "f.5r",
@@ -675,6 +615,66 @@
 								}
 							},
 							"on": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000010"
+						}
+					],
+					"related": {
+						"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807671.0x000001/manifest.json",
+						"label": "British Library Cotton MS Otho C V Gospels of St Matthew and St Mark (part of the 'The Otho-Corpus Gospels') (imperfect)",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000011",
+					"@type": "sc:Canvas",
+					"label": "f.5v",
+					"width": 5113,
+					"height": 6706,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100058059308.0x000010/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100058059308.0x000010",
+									"protocol": "http://iiif.io/api/image",
+									"width": 5113,
+									"height": 6706,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 256
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"profileLinkHeader",
+												"rotationArbitrary",
+												"regionSquare",
+												"mirroring"
+											]
+										}
+									]
+								}
+							},
+							"on": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000011"
 						}
 					],
 					"related": {
@@ -863,6 +863,66 @@
 						"format": ""
 					}
 				},
+				{
+					"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000015",
+					"@type": "sc:Canvas",
+					"label": "f.7v",
+					"width": 5113,
+					"height": 6706,
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100058059308.0x000014/full/max/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100058059308.0x000014",
+									"protocol": "http://iiif.io/api/image",
+									"width": 5113,
+									"height": 6706,
+									"tiles": [
+										{
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16,
+												32
+											],
+											"width": 256
+										}
+									],
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"qualities": [
+												"gray",
+												"color",
+												"bitonal"
+											],
+											"supports": [
+												"profileLinkHeader",
+												"rotationArbitrary",
+												"regionSquare",
+												"mirroring"
+											]
+										}
+									]
+								}
+							},
+							"on": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000015"
+						}
+					],
+					"related": {
+						"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807671.0x000001/manifest.json",
+						"label": "British Library Cotton MS Otho C V Gospels of St Matthew and St Mark (part of the 'The Otho-Corpus Gospels') (imperfect)",
+						"format": ""
+					}
+					},
 				{
 					"@id": "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000016",
 					"@type": "sc:Canvas",
@@ -10063,7 +10123,13 @@
       "canvases": [
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000008",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000009",
-        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000010",
+        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00000a",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00000b",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00000c",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00000d",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00000e",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00000f",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000010",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000011",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000012",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000013",
@@ -10073,6 +10139,12 @@
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000017",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000018",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000019",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00001a",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00001b",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00001c",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00001d",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00001e",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00001f",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000020",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000021",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000022",
@@ -10083,6 +10155,12 @@
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000027",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000028",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000029",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00002a",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00002b",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00002c",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00002d",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00002e",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00002f",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000030",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000031",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000032",
@@ -10091,12 +10169,7 @@
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000035",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000036",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000037",
-        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000038",
-        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000039",
-        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000040",
-        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000041",
-        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000042",
-        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000043"
+        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000038"
 	]
 	},
 	{
@@ -10105,12 +10178,29 @@
       "label": "Mark",
       "within": "https://raw.githubusercontent.com/am2539/test-repository/master/Otho-Cotton%20Gospels/range/r0",
       "canvases": [
-        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000044",
+        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000039",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00003a",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00003b",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00003c",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00003d",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00003e",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00003f",
+        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000040",
+        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000041",
+        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000042",
+        "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000043",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000044",
 	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000045",
 	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000046",
 	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000047",
 	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000048",
 	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000049",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00004a",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00004b",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00004c",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00004d",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00004e",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00004f",
 	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000050",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000051",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000052",
@@ -10121,6 +10211,12 @@
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000057",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000058",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000059",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00005a",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00005b",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00005c",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00005d",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00005e",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00005f",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000060",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000061",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000062",
@@ -10131,6 +10227,12 @@
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000067",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000068",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000069",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00006a",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00006b",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00006c",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00006d",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00006e",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00006f",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000070",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000071",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000072",
@@ -10141,6 +10243,12 @@
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000077",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000078",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000079",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00007a",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00007b",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00007c",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00007d",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00007e",
+	"https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x00007f",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000080",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000081",
         "https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100057807997.0x000082",
