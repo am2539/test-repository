@@ -9871,15 +9871,6 @@
 							"on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-124"
 						}
 					]
-				},
-				{
-					"@id": "http://8bddd8a8-bae4-4459-992c-5079642e35a9",
-					"@type": "sc:Canvas",
-					"label": "Empty canvas",
-					"height": 0,
-					"width": 0,
-					"images": [],
-					"related": ""
 				}
 			]
 		}
