@@ -5,27 +5,12 @@
 	"label": "Parker Library MS 66 & Cambrige University Library MS FF.1.27: A Durham Manuscript Reconstructed",
 	"attribution": "ImagesLicensed under a Creative Commons Attribution-NonCommercial 4.0 International License by Corpus Christi College Cambridge, and Cambridge University Library. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
 	"description": INSERT DESCRIPTION HERE.",
-	{
-"label": "Language",
-"value": "Latin."
-},
-{
-"label": "Origin Place",
-"value": "Sawley or Durham"
-},
-{
-"label": "Physical Location",
-"value": "Parker Library, Corpus Christi College, Cambridge & Cambridge University Library"
-},
-{
-"label": "Extent",
-"value": " ff. 165, leaf height: 305 mm, width: 229 mm. Written height: 240 mm, width: 160 mm."
-},
+
 	"seeAlso": {
 		"@id": "https://purl.stanford.edu/jb848tp9919.mods",
 		"profile": "application/mods+xml"
 	},
-	],
+
 	"sequences": [
 		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/normal",
