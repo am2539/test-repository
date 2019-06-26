@@ -12,7 +12,7 @@
 	"metadata":[
 	{
 	"label": "Scribal centre", 
-	"value": Sawley or Durham"
+	"value": "Sawley or Durham"
 	},
 	{
 	"label": "Date",
@@ -25,8 +25,9 @@
 	{
 	"label": "Material",
 	"value": "Parchment"
+	},
 	{
-	"label": "Physical Locations",
+	"label": "Current Physical Location",
 	"value": "The Parker University, Corpus Christi College, Cambridge, and Cambridge University Library"
 	},
 	],
@@ -10121,5 +10122,5 @@
 			]
 		}
 	],
-	"metadata": []
+	
 }
