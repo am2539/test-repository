@@ -9,7 +9,7 @@
 	"date": "1100 - 1200",
 	"extent": "ff. 165 Leaf height: 305 mm, width: 229 mm. Written height: 240 mm, width: 160 mm.", 
 	"material": "Parchment",
-	"physical locations": "The Parker University, Corpus Christi College, Cambridge, and Cambridge University Library"
+	"physical locations": "The Parker University, Corpus Christi College, Cambridge, and Cambridge University Library",
 	"seeAlso": {
 		"@id": "https://purl.stanford.edu/jb848tp9919.mods",
 		"profile": "application/mods+xml"
