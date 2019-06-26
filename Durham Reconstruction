@@ -11,23 +11,23 @@
 	},
 	"metadata":[
 	{
-	"label": "origin place" 
-	"value": Sawley or Durham",
+	"label": "Scribal centre", 
+	"value": Sawley or Durham"
 	},
 	{
-	"label": "date"
-	"value": "1100 - 1200",
+	"label": "Date",
+	"value": "1100 - 1200"
 	},
 	{
-	"label": "extent" 
-	"value": "ff. 165 Leaf height: 305 mm, width: 229 mm. Written height: 240 mm, width: 160 mm.", 
+	"label": "Extent", 
+	"value": "ff. 165 Leaf height: 305 mm, width: 229 mm. Written height: 240 mm, width: 160 mm." 
 	},
 	{
-	"label": "material"
-	"value": "Parchment",
+	"label": "Material",
+	"value": "Parchment"
 	{
-	"label": "physical locations"
-	"value": "The Parker University, Corpus Christi College, Cambridge, and Cambridge University Library",
+	"label": "Physical Locations",
+	"value": "The Parker University, Corpus Christi College, Cambridge, and Cambridge University Library"
 	},
 	],
 	"sequences": [
