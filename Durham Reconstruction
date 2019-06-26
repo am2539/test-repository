@@ -30,7 +30,7 @@
 	"label": "Current Physical Location",
 	"value": "The Parker University, Corpus Christi College, Cambridge, and Cambridge University Library"
 	},
-	],
+	]
 	"sequences": [
 		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/normal",
