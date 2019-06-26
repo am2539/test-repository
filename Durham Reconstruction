@@ -25,6 +25,7 @@
 		"@id": "https://purl.stanford.edu/jb848tp9919.mods",
 		"profile": "application/mods+xml"
 	},
+	],
 	"sequences": [
 		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/normal",
