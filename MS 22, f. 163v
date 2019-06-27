@@ -1,0 +1,68 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://734e21c7-66e1-42dc-be2b-9bf22faeceb6",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://1aa6df26-0ced-4b29-a5bc-3a9173b2938b",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/canvas/canvas-372",
+					"@type": "sc:Canvas",
+					"label": "f. 163v",
+					"height": 8853,
+					"width": 6038,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/imageanno/anno-372",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/xd956wx5361/022_163_V_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 8853,
+								"width": 6038,
+								"service": {
+									"@id": "https://stacks.stanford.edu/image/iiif/xd956wx5361%252F022_163_V_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/canvas/canvas-372"
+						}
+					],
+					"otherContent": [
+						{
+							"@type": "sc:AnnotationList",
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/list/163v.json"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/manifest.json",
+						"label": "Cambridge, Corpus Christi College, MS 022: Isidore of Seville, Etymologiae, Synonyma. Bestiary",
+						"format": ""
+					}
+				}
+			]
+		}
+	],
+	"structures": []
+}
