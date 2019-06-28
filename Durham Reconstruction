@@ -9391,7 +9391,7 @@
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/262"
 			]
 		},
-		{
+			{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r9",
 			"@type": "sc:Range",
 			"label": "Chronicle of the Kings of France",
