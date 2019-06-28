@@ -3,8 +3,8 @@
 	"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Parker Library MS 66 and Cambrige University Library MS FF.1.27: A Durham Manuscript Reconstucted",
-	"attribution": "Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
-	"description": "INSERT TEXT HERE",
+	"attribution": "Images Licensed under Creative Commons Attribution-NonCommercial 4.0 International Licenses. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
+	"description": "A demonstration built for the 2019 IIIF conference to illustrate the possibility of reconstructing a manuscript which was split, and shuffled, over 400 years ago. Sections of the manuscript now reside in two different IIIF-compliant institutions.",
 	"seeAlso": {
 		"@id": "https://purl.stanford.edu/jb848tp9919.mods",
 		"profile": "application/mods+xml"
@@ -9177,14 +9177,6 @@
 		]
 	}],
 	"viewingHint": "paged",
-	"logo": {
-		"@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette/full/400,/0/default.jpg",
-		"service": {
-			"@context": "http://iiif.io/api/image/2/context.json",
-			"@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette",
-			"profile": "http://iiif.io/api/image/2/level1.json"
-		}
-	},
 	"thumbnail": {
 		"@id": "https://stacks.stanford.edu/image/iiif/jb848tp9919/066_fob_TC_46/full/!400,400/0/default.jpg",
 		"@type": "dctypes:Image",
@@ -9209,7 +9201,30 @@
 				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r5",
 				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r6",
 				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r7",
-				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r8"
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r8",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r9",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r10",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r11",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r12",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r13",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r14",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r15",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r16",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r17",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r18",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r19",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r20",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r21",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r22",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r23",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r24",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r25",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r26",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r27",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r28",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r29",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r30",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r31"
 			]
 		},
 		{
@@ -9349,6 +9364,63 @@
 		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r5",
 			"@type": "sc:Range",
+			"label": "Gilbert of Limerick, De statu ecclesiae",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/251",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/252",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/253",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/254",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/255",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/256"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r6",
+			"@type": "sc:Range",
+			"label": "Kings of Britain",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/257",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/258",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/259"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r7",
+			"@type": "sc:Range",
+			"label": "Kings of Israel and Juda",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/260",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/261"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r8",
+			"@type": "sc:Range",
+			"label": "Kings of Persia and Chaldea",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/262"
+			]
+		},
+				{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r9",
+			"@type": "sc:Range",
+			"label": "Chronicle of the Kings of France",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/263",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/264",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/265",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/266"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r10",
+			"@type": "sc:Range",
 			"label": "Letter of Theobald of Étampes to Robert Bloet, Bishop of Lincoln",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
 			"canvases": [
@@ -9358,7 +9430,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r6",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r11",
 			"@type": "sc:Range",
 			"label": "Clement of Lanthony OSA, De sex alis cherubim",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9375,7 +9447,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r7",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r12",
 			"@type": "sc:Range",
 			"label": "Clement of Lanthony OSA, De tribus in poenitentiae considerandis",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9388,7 +9460,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r8",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r13",
 			"@type": "sc:Range",
 			"label": "De quatuor generibus confessionis, et vera penitentia et humili confessione",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9397,7 +9469,382 @@
 				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-119",
 				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-120"
 			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r14",
+			"@type": "sc:Range",
+			"label": "Gildas, De excidio Britanniae, lib. I.",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/15",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/16",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/17",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/18",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/19",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/20",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/21",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/22",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/23",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/24",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/25",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/26",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/27",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/28"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r15",
+			"@type": "sc:Range",
+			"label": "Gildas, De excidio Britanniae, lib. I.",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/15",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/16",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/17",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/18",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/19",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/20",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/21",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/22",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/23",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/24",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/25",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/26",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/27",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/28"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r16",
+			"@type": "sc:Range",
+			"label": "Nennius, Historia Brittonum",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/28",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/29",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/30",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/31",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/32",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/33",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/34",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/35",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/36",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/37",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/38",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/39",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/40",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/41",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/42",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/43",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/44",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/45",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/46",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/47",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/48",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/49",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/50",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/51",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/52",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/53",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/54"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r17",
+			"@type": "sc:Range",
+			"label": "Bede, De Temporum ratione etc.",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/87",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/88",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/89",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/90",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/91",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/92",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/93",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/94",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/95",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/96",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/97",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/98",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/99",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/100",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/101",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/102",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/103",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/104",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/105",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/106",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/107",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/108",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/109",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/110",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/111",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/112",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/113",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/114",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/115",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/116",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/117",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/118",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/119",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/120",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/121",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/122",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/123",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/124",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/125",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/126",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/127",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/128",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/129",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/130",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/131",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/132",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/133"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r18",
+			"@type": "sc:Range",
+			"label": "Aethewulf, De Abbatibus",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/217",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/218",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/219",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/220",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/221",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/222",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/223",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/224",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/225",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/226",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/227",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/228",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r19",
+			"@type": "sc:Range",
+			"label": "De regibus et regnis et episcopatibus totius Angliae etc.",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/230"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r20",
+			"@type": "sc:Range",
+			"label": "Visiones",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/231",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/232"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r21",
+			"@type": "sc:Range",
+			"label": "Visiones",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/232",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r22",
+			"@type": "sc:Range",
+			"label": "Visiones",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r23",
+			"@type": "sc:Range",
+			"label": "Visiones",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r24",
+			"@type": "sc:Range",
+			"label": "Visiones",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r25",
+			"@type": "sc:Range",
+			"label": "Symeon Dunelmensis, Historia Dunelmensis Ecclesiae (Libellus de exordio) etc.",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/136",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/137",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/138",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/139",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/140",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/141",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/142",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/143",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/144",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/145",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/146",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/147",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/148",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/149",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/150",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/151",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/152",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/153",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/154",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/155",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/156",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/157",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/158",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/159",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/160",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/161",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/162",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/163",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/164",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/165",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/166",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/167",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/168",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/169",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/170",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/171",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/172",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/173",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/174",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/175",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/176",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/177",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/178",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/179",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/180",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/181",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/182",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/183",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/184",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/185",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/186",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/187",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/188",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/189",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/190",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/191",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/192",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/193",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/194",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/195",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/196",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/197",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/198",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/199",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/200"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r26",
+			"@type": "sc:Range",
+			"label": "William of Malmesbury Extracts",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/134"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r27",
+			"@type": "sc:Range",
+			"label": "Charter of Egfrid",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/200"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r28",
+			"@type": "sc:Range",
+			"label": "History of St. Cuthbert",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/209",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/210",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/211",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/212",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/213",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/214",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/215",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/216"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r29",
+			"@type": "sc:Range",
+			"label": "Old English Durham Poem",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/216"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r30",
+			"@type": "sc:Range",
+			"label": "Ricardus prior Hagulstandensis ecclesiae, De moderno et antiquo statu eiusdem ecclesiae",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/235",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/236",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/237",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/238",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/239",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/240",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/241",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/242",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/243",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/244",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/245",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/246",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/247",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/248",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/249",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/250"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r31",
+			"@type": "sc:Range",
+			"label": "Gilbertus Episcopus Lumicensis, De statu ecclesiae",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/251",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/252",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/253",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/254",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/255",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/256"
+			]
 		}
+
 	]
 
 }
