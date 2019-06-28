@@ -9347,6 +9347,20 @@
 			]
 		},
 		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r4",
+			"@type": "sc:Range",
+			"label": "Gilbertus Episcopus Lumicensis, De statu ecclesiae",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				
+"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/251",
+"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/252",
+"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/253",
+"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/254",
+"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/255",
+"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/256"
+},
+		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r5",
 			"@type": "sc:Range",
 			"label": "Letter of Theobald of Étampes to Robert Bloet, Bishop of Lincoln",
