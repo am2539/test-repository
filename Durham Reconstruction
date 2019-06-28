@@ -9177,7 +9177,6 @@
 		]
 	}],
 	"viewingHint": "paged",
-	},
 	"thumbnail": {
 		"@id": "https://stacks.stanford.edu/image/iiif/jb848tp9919/066_fob_TC_46/full/!400,400/0/default.jpg",
 		"@type": "dctypes:Image",
