@@ -9347,7 +9347,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r4",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r5",
 			"@type": "sc:Range",
 			"label": "Gilbertus Episcopus Lumicensis, De statu ecclesiae",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9359,6 +9359,7 @@
 "https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/254",
 "https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/255",
 "https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/256"
+]
 },
 		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r5",
