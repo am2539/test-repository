@@ -9414,8 +9414,20 @@
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/262"
 			]
 		},
-		{
+				{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r9",
+			"@type": "sc:Range",
+			"label": "Chronicle of the Kings of France",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/263",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/264",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/265",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/266"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r10",
 			"@type": "sc:Range",
 			"label": "Letter of Theobald of Étampes to Robert Bloet, Bishop of Lincoln",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
