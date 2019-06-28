@@ -9382,13 +9382,15 @@
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/261"
 			]
 		},
-		{
+	{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r8",
 			"@type": "sc:Range",
-			"label": "Kings of Persia and Chaldea",
+			"label": "Letter of Theobald of Étampes to Robert Bloet, Bishop of Lincoln",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
 			"canvases": [
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/262"
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-105",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-106",
+				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-107"
 			]
 		},
 		{
