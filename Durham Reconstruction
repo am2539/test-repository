@@ -9394,18 +9394,6 @@
 		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r9",
 			"@type": "sc:Range",
-			"label": "Chronicle of the Kings of France",
-			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
-			"canvases": [
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/263",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/264",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/265",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/266"
-			]
-		},
-		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r10",
-			"@type": "sc:Range",
 			"label": "Letter of Theobald of Étampes to Robert Bloet, Bishop of Lincoln",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
 			"canvases": [
@@ -9415,7 +9403,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r11",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r10",
 			"@type": "sc:Range",
 			"label": "Clement of Lanthony OSA, De sex alis cherubim",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9432,7 +9420,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r12",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r11",
 			"@type": "sc:Range",
 			"label": "Clement of Lanthony OSA, De tribus in poenitentiae considerandis",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9445,7 +9433,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r13",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r12",
 			"@type": "sc:Range",
 			"label": "De quatuor generibus confessionis, et vera penitentia et humili confessione",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9453,6 +9441,28 @@
 				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-118",
 				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-119",
 				"https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-120"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r13",
+			"@type": "sc:Range",
+			"label": "Gildas, De excidio Britanniae, lib. I.",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/15",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/16",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/17",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/18",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/19",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/20",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/21",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/22",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/23",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/24",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/25",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/26",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/27",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/28"
 			]
 		},
 		{
@@ -9479,28 +9489,6 @@
 		},
 		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r15",
-			"@type": "sc:Range",
-			"label": "Gildas, De excidio Britanniae, lib. I.",
-			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
-			"canvases": [
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/15",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/16",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/17",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/18",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/19",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/20",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/21",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/22",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/23",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/24",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/25",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/26",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/27",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/28"
-			]
-		},
-		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r16",
 			"@type": "sc:Range",
 			"label": "Nennius, Historia Brittonum",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9535,7 +9523,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r17",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r16",
 			"@type": "sc:Range",
 			"label": "Bede, De Temporum ratione etc.",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9590,7 +9578,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r18",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r17",
 			"@type": "sc:Range",
 			"label": "Aethewulf, De Abbatibus",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9611,7 +9599,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r19",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r18",
 			"@type": "sc:Range",
 			"label": "De regibus et regnis et episcopatibus totius Angliae etc.",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9621,7 +9609,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r20",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r19",
 			"@type": "sc:Range",
 			"label": "Visiones",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9632,7 +9620,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r21",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r20",
 			"@type": "sc:Range",
 			"label": "Visiones",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9643,13 +9631,24 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r22",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r21",
 			"@type": "sc:Range",
 			"label": "Visiones",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
 			"canvases": [
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233"
+			]
+		},
+		{
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r22",
+			"@type": "sc:Range",
+			"label": "Visiones",
+			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
+			"canvases": [
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234"
 			]
 		},
 		{
@@ -9665,17 +9664,6 @@
 		},
 		{
 			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r24",
-			"@type": "sc:Range",
-			"label": "Visiones",
-			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
-			"canvases": [
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234"
-			]
-		},
-		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r25",
 			"@type": "sc:Range",
 			"label": "Symeon Dunelmensis, Historia Dunelmensis Ecclesiae (Libellus de exordio) etc.",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9749,7 +9737,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r26",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r25",
 			"@type": "sc:Range",
 			"label": "William of Malmesbury Extracts",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9758,7 +9746,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r27",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r26",
 			"@type": "sc:Range",
 			"label": "Charter of Egfrid",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9767,7 +9755,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r28",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r27",
 			"@type": "sc:Range",
 			"label": "History of St. Cuthbert",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9783,7 +9771,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r29",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r28",
 			"@type": "sc:Range",
 			"label": "Old English Durham Poem",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9792,7 +9780,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r30",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r29",
 			"@type": "sc:Range",
 			"label": "Ricardus prior Hagulstandensis ecclesiae, De moderno et antiquo statu eiusdem ecclesiae",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9816,7 +9804,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r31",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r30",
 			"@type": "sc:Range",
 			"label": "Gilbertus Episcopus Lumicensis, De statu ecclesiae",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
