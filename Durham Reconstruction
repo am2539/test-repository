@@ -9362,7 +9362,7 @@
 ]
 },
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r5",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r6",
 			"@type": "sc:Range",
 			"label": "Letter of Theobald of Étampes to Robert Bloet, Bishop of Lincoln",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9373,7 +9373,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r6",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r7",
 			"@type": "sc:Range",
 			"label": "Clement of Lanthony OSA, De sex alis cherubim",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9390,7 +9390,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r7",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r8",
 			"@type": "sc:Range",
 			"label": "Clement of Lanthony OSA, De tribus in poenitentiae considerandis",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
@@ -9403,7 +9403,7 @@
 			]
 		},
 		{
-			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r8",
+			"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r9",
 			"@type": "sc:Range",
 			"label": "De quatuor generibus confessionis, et vera penitentia et humili confessione",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
