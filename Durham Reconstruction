@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/manifest.json",
 	"@type": "sc:Manifest",
-	"label": "Parker Library MS 66 and Cambrige University Library MS FF.1.27: A Durham Manuscript Reconstucted",
+	"label": "Parker Library MS 66 and Cambrige University Library MS FF.1.27: A Durham Manuscript Reconstructed",
 	"attribution": "Images Licensed under Creative Commons Attribution-NonCommercial 4.0 International Licenses. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
 	"description": "A demonstration built for the 2019 IIIF conference to illustrate the possibility of reconstructing a manuscript which was split, and shuffled, over 400 years ago. Sections of the manuscript now reside in two different IIIF-compliant institutions.",
 	"seeAlso": {
