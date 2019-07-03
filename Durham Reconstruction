@@ -9676,7 +9676,6 @@
 			"label": "Visiones",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
 			"canvases": [
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/232",
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233"
 			]
@@ -9687,7 +9686,6 @@
 			"label": "Visiones",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
 			"canvases": [
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233"
 			]
 		},
@@ -9697,7 +9695,6 @@
 			"label": "Visiones",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
 			"canvases": [
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233",
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234"
 			]
@@ -9708,9 +9705,9 @@
 			"label": "Visiones",
 			"within": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/range/r0",
 			"canvases": [
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/229",
 				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/233",
-				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234"
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234",
+				"https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/235"
 			]
 		},
 		{
