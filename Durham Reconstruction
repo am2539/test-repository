@@ -9070,35 +9070,6 @@
 				}
 			},
 			{
-				"images": [{
-					"resource": {
-						"@type": "dctypes:Image",
-						"service": {
-							"profile": "http://iiif.io/api/image/2/level1.json",
-							"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027-000-00234.jp2",
-							"@context": "http://iiif.io/api/image/2/context.json"
-						},
-						"format": "image/jpg",
-						"width": 5493,
-						"@id": "https://image01.cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027-000-00234.jp2",
-						"height": 8369
-					},
-					"@type": "oa:Annotation",
-					"motivation": "sc:painting",
-					"on": "https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234"
-				}],
-				"@type": "sc:Canvas",
-				"width": 5493,
-				"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027/canvas/234",
-				"label": "220",
-				"height": 8369,
-				"related": {
-					"@id": "https://cudl.lib.cam.ac.uk/iiif/MS-FF-00001-00027",
-					"label": "MS Ff.1.27 (MS Ff.1.27)",
-					"format": ""
-				}
-			},
-			{
 				"@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-121",
 				"@type": "sc:Canvas",
 				"label": "f. iir",
