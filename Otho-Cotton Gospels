@@ -10290,7 +10290,7 @@
     {
       "@id": "https://raw.githubusercontent.com/am2539/test-repository/master/Otho-Cotton%20Gospels/range/r3",
       "@type": "sc:Range",
-      "label": "Luke",
+      "label": "Lukas",
       "within": "https://raw.githubusercontent.com/am2539/test-repository/master/Otho-Cotton%20Gospels/range/r0",
       "canvases": [
 	"https://dms-data.stanford.edu/data/manifests/Parker/qw038wz9710/canvas/canvas-27",
